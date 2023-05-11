@@ -1,0 +1,21 @@
+.select input {
+    width: 270px;
+    border-radius: 5px 0 0 5px;
+    margin-top: -60.5px;
+    position: relative;
+    padding: 15.5px;
+    color: #b6b6b6;
+    font-size: 15px;
+}
+
+@media screen and (max-width : 3000px) {
+    .select input {
+        width: 276px;
+        border-radius: 5px 0 0 5px;
+        margin-top: -63.5px;
+        position: relative;
+        padding: 15.5px;
+        color: #b6b6b6;
+        font-size: 15px;
+    }
+}
